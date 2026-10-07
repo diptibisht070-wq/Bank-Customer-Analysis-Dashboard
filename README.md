@@ -1,4 +1,4 @@
-# 🏦 PNB Bank Customer Analysis Dashboard (Power BI)
+# 🏦 Bank Customer Analysis Dashboard (Power BI)
 
 An interactive Power BI dashboard that analyses a bank's customer base across **balance, demographics, account types, loan behaviour, geography and customer onboarding trends**. It turns raw customer records into a clear picture of who the bank's most valuable customers are and where the balance comes from.
 
